@@ -8,6 +8,7 @@ TRUNCATE
 
 INSERT INTO thingful_users (user_name, full_name, nickname, password)
 VALUES
+  ('user', 'User Name', 'Usr', 'pass'),
   ('dunder', 'Dunder Mifflin', null, 'password'),
   ('b.deboop', 'Bodeep Deboop', 'Bo', 'bo-password'),
   ('c.bloggs', 'Charlie Bloggs', 'Charlie', 'charlie-password'),
